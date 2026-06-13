@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo.png" alt="FEXO Logo" width="450"/>
-
 # FEXO
 
 ### Professional PCB Design • Chip Design • Embedded Systems • Software Engineering
