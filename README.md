@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/fexo-logo.png" alt="FEXO Logo" width="450"/>
+<img src="logo.png" alt="FEXO Logo" width="450"/>
 
 # FEXO
 
