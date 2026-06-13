@@ -154,7 +154,7 @@ print("Building the Future with FEXO")
 ## PCB Design
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200" width="700">
+<img src="pcb.jpg" width="700"/>
 </p>
 
 Professional multilayer PCB design and routing.
@@ -164,7 +164,7 @@ Professional multilayer PCB design and routing.
 ## Chip Design
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1563770660941-10a636076b23?w=1200" width="700">
+<img src="chip.jpg" width="700"/>
 </p>
 
 RTL Development, FPGA Design and ASIC Verification.
@@ -174,7 +174,7 @@ RTL Development, FPGA Design and ASIC Verification.
 ## Embedded Systems
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1553406830-ef2513450d76?w=1200" width="700">
+<img src="images.jpg" width="700"/>
 </p>
 
 Hardware and software integration.
@@ -255,13 +255,13 @@ We welcome collaboration on:
 
 ### FEXO Engineering
 
-📧 Email: contact@fexo.com
+📧 Email: hello.fexo@gmail.com
 
 🌐 Website: Coming Soon
 
 💼 LinkedIn: FEXO
 
-🐙 GitHub: https://github.com/FEXO
+🐙 GitHub: https://github.com/fexogit
 
 ---
 
